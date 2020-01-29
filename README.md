@@ -1,7 +1,7 @@
 # envy
-[![GoDoc](https://godoc.org/github.com/xta/okrun?status.svg)](https://godoc.org/github.com/0xc0392b/envy)
-
 Environment variables but with float, int, and bool parsing and default values
+
+[![GoDoc](https://godoc.org/github.com/xta/okrun?status.svg)](https://godoc.org/github.com/0xc0392b/envy)
 
 Envy is a library for fetching and parsing environment variables. Envy makes it
 easier to fetch and parse ints, floats, and bools from system env variables, and
